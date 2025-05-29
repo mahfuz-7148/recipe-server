@@ -1,0 +1,26 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahfuz-7148/ServerCopyyyy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahfuz-7148/ServerCopyyyy/issues"
+  },
+  "homepage": "https://github.com/mahfuz-7148/ServerCopyyyy#readme",
+  "description": ""
+}
